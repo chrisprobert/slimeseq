@@ -175,7 +175,6 @@ class GeneCollection :
 
 			except :
 				continue
-				#print("Error parsing gene file with line:\n%s\nStopping now." % line)
 
 # class to hold genome-wide hit probability distribution
 class probabilityModel :
